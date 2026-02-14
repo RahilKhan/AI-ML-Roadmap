@@ -1,0 +1,11 @@
+data:text/csv;charset=utf-8,
+Week,Year,Goal / Task,Cue,Craving (Motivation),Response (Action),Reward,Status (✅),Notes
+1,1,Conduct skills audit,Monday 9am calendar reminder,Know where I stand to grow faster,List skills & gaps in AI/ML, Distributed Systems, Optimization,Clarity & satisfaction,,
+1,1,Document past high‑impact projects,After audit session,Showcase achievements for authority,Summarize 3–5 past projects in 1‑page each,Visible progress & portfolio boost,,
+2,1,Learn AI/ML fundamentals,Morning 30‑min slot,Be able to design AI‑driven systems,Watch tutorials + take notes,First 1% knowledge improvement,,
+2,1,Read reinforcement learning overview,Evening,Prepare for applied RL projects,Read intro articles + notes,Understanding built,,
+3,1,Identify core skill gaps,Monday,Pinpoint focus areas,Map strong & weak skills to roadmap,Clear roadmap direction,,
+3,1,Set weekly micro‑goals,Sunday planning,Trackable weekly wins,Define 3 micro‑tasks for the week,Weekly motivation boost,,
+4,1,Start internal AI/ML mini‑project,Morning,Prototype builds confidence & authority,Develop small MVP (e.g., recommendation model),Tangible output created,,
+4,1,Share internal blog post,Friday,Visibility & recognition,Publish draft on internal wiki/Slack,Peer feedback & visibility,,
+
